@@ -1,4 +1,4 @@
-#!/home/shanksj/misc/anaconda/bin/python
+#/usr/bin/env python
 
 #import subprocess
 import ctypes as C
