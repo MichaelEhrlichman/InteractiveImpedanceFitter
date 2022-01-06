@@ -5,6 +5,8 @@ Each tick along the horizontal axis is a beam position detector.  At each detect
 
 The blue bars are the strength of the impedance at the expected strongest impedance sources in the machine.  The impedance is in units k1/mA, or in other words, focusing per beam current.  Higher beam current yields a stronger focusing effect from the particular impedance source.
 
+The simulation result, blue curve, is from a comprehensive physics simulation that places current-dependent focusing elements at the suspected impedance locations.
+
 The best result was found by adjusting the impedances manually using the front end, then using a local optimizer to refine the result.
 
 Parameter uncertainty obtained from the inverse Hessian.
