@@ -7,6 +7,8 @@ The blue bars are the strength of the impedance at the expected strongest impeda
 
 The best result was found by adjusting the impedances manually using the front end, then using a local optimizer to refine the result.
 
+Parameter uncertainty obtained from the inverse Hessian.
+
 Conference publication at https://accelconf.web.cern.ch/ipac2018/papers/thpaf020.pdf
 
 ![alt text](GUI.png)
