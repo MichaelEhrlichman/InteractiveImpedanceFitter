@@ -12,3 +12,5 @@ Parameter uncertainty obtained from the inverse Hessian.
 Conference publication at https://accelconf.web.cern.ch/ipac2018/papers/thpaf020.pdf
 
 ![alt text](GUI.png)
+
+![alt text](FitterParameters.png)
